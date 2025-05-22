@@ -1,0 +1,7 @@
+*.sln
+
+/bin
+/obj
+
+#no subas este archivo
+appsettings.json
